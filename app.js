@@ -145,6 +145,12 @@ app.post("/work", function(req, res){
     res.redirect("/work");
 });
 
-app.listen(3000, function(){               // we listen on port 3000
-    console.log("Server started at port 3000");  // we console.log that out server has started
+let port = process.env.PORT;
+if(port == null || port == ""){
+    port = 3000;
+}
+
+
+app.listen(port, function(){               // we listen on port 3000
+    console.log("Server has started successfully");  // we console.log that out server has started
 });
