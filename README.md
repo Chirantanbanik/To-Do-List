@@ -5,4 +5,4 @@ Tech Stack used: HTML | CSS | EJS | Node.js | MongoDB.
 
 https://user-images.githubusercontent.com/71392444/174609994-ae435b45-18c4-419a-9ff3-427cce7439b6.mp4
 
-The project is live [here](https://lit-basin-94817.herokuapp.com/)
+
