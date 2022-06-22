@@ -1,6 +1,6 @@
 # To-Do-List
 
-## **Heroku link:** https://lit-basin-94817.herokuapp.com/
+## **You can ckeck the app from:** [here](https://lit-basin-94817.herokuapp.com/)
 
 This is a To-Do List wherein the users can add items to a particular list say it's Today and if they want to add a new list let's say it is College then they have to go to the URL and at the end put a /College to create a College list and there they can store their College tasks.  All the tasks that are added by the user will be stored in a MongoDB Database & they can also delete the a item or items after they are done with it, just tick the box and the task will be deleted.
 
