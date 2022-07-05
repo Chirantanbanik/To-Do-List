@@ -2,7 +2,8 @@
 
 ## **You can ckeck the app from:** [here](https://lit-basin-94817.herokuapp.com/)
 
-This is a To-Do List wherein the users can add items to a particular list say it's Today and if they want to add a new list let's say it is College then they have to go to the URL and at the end put a /College to create a College list and there they can store their College tasks.  All the tasks that are added by the user will be stored in a MongoDB Database & they can also delete the a item or items after they are done with it, just tick the box and the task will be deleted.
+A To-Do List wherein the users can add items to the list and the items are stored in the MongoDB database. After the items can be deleted by checking the checkbox. Different users can also create a complete new list by going to the website **https://lit-basin-94817.herokuapp.com** and adding /Chirantan if they want to create a list by their name and add their personal list there. Because in the Today named list all users list will be there so there will be conquer of privacy. So, the solution for this is creating a new list. 
+
 
 https://user-images.githubusercontent.com/71392444/174609994-ae435b45-18c4-419a-9ff3-427cce7439b6.mp4
 
